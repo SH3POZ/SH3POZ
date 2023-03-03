@@ -41,6 +41,12 @@ src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="
 <a href="https://www.terraform.io/en-in/" target="_blank" rel="noreferrer"> <img 
 src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img 
-src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a>
+src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a> 
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> <img 
+src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/> </a>
+
+
 
 
